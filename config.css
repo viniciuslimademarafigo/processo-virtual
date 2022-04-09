@@ -1,0 +1,13 @@
+#p1{
+width: 1000px;
+height: 900px;
+left: 50%;
+transform: translate(-50%);
+position: absolute;
+}
+#texto{
+margin-top: 54%;
+left: 50%;
+transform: translate(-50%);
+position: absolute;
+}
